@@ -13,9 +13,7 @@
 
 ### ⚙ Backend
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&color=4A4A4A)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&color=4A4A4A)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=4A4A4A)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=4A4A4A)
+![C#](https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=rust&color=4A4A4A)
 
 ## 🤝 Join Our Community
 
