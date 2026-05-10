@@ -1,10 +1,4 @@
-# 0xTeam
-
-> **Ethical Hacking | Advanced Pentesting | Cybersecurity Solutions**  
-> A group of enthusiasts
-
-[![GitHub contributors](https://img.shields.io/github/contributors/0x-Team/ClipByte)](https://github.com/0x-Team/0xNova)
-[![License](https://img.shields.io/badge/license-MIT-red)](LICENSE)
+# Cardemion36
 
 ---
 
