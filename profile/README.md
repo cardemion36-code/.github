@@ -15,8 +15,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&color=4A4A4A)
 ![C#](https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=rust&color=4A4A4A)
 
-## 🤝 Join Our Community
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&color=4A4A4A)](https://t.me/zerox_team)
-
+[![Telegram]
+[![Discord]
 ---
